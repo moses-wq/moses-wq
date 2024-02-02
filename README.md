@@ -1,6 +1,6 @@
 hi I'm moses
 -I'M intrested in software development
-am currently a student in University of ELDORE
+am currently a student in University of ELDORET
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 HE
